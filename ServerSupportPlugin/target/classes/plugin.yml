@@ -1,0 +1,13 @@
+name: ServerSupport
+version: 1.0
+main: poti.serversupport.ServerSupport
+api-version: 1.16
+
+commands:
+  ChatClear:
+    description: チャットをクリアします
+  get:
+    description: IPアドレスとUUIDを取得します
+  fly:
+    description: Flyをすることができます
+
